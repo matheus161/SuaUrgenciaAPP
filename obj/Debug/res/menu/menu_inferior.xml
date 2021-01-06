@@ -1,0 +1,1 @@
+<!--For all properties see: http://developer.android.com/guide/topics/resources/menu-resource.html--><menu xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/action_direcoes" android:title="Direções" /><item android:id="@+id/action_Ligar" android:title="Ligar" /></menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="5dp">
+    <TextView
+        android:text="Especialidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvEspecialidade"
+        android:layout_marginBottom="2dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000" />
+    <TextView
+        android:text="Descrição"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvDescricao"
+        android:textSize="16sp"
+        android:textColor="#222222" />
+</LinearLayout>
